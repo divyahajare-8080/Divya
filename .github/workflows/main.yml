@@ -1,4 +1,5 @@
-name: Run on Push
+#github action auturun every push
+name: Run on Push 
 on: [push]
 jobs:
   build:
